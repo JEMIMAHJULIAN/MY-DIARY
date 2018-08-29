@@ -1,0 +1,59 @@
+.body {
+    margin: 0;
+    padding: 0;
+    background-image: url(bcg.jpg);
+    font-family: "open sans",sans-serif;
+     }
+.container{
+    width: 600px;
+    padding: 100px;
+    box-sizing: border-box;
+    height: 500px;
+    margin: auto;
+    position: relative;
+          }
+.title{
+    position: absolute;
+    top: 3px;
+    padding: 30px 50px;
+    font-size: 20px;
+    font-style: arial;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: left;
+    font-weight: 1000; 
+      }
+.sub-container{ 
+    padding-top: 600px;
+             }
+.form{
+    width: 100%;
+    margin-bottom: 20px;
+    line-height: 2.0;
+    }
+.form .label{
+    text-transform: capitalise;
+    font-weight: 700;
+          }
+form input{
+    margin: 5px 0 0;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    font-size-adjust: 18px;
+    outline: none;
+    border-radius: 3px;
+          }
+.develop{
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 800;
+
+
+}
+input{
+    width: 250px;
+    height: 25px;
+    border: 1.5px solid gray;
+}

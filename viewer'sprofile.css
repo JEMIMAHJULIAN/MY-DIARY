@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(bcg.jpg);
+    font-family:"open sans",sans-serif;
+     }
+.title {
+    top: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-style:arial;
+    text-transform: uppercase;
+    letter-spacing: 1px; 
+    text-align: center;
+    margin: auto;
+      }
+.table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+.td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 15px;
+    }
+    th {
+        background-color: rgb(76, 99, 175);
+        color: white;
+    }
+.btn{
+    width: 80%;
+    background-color: white;
+    height: 60%;
+    text-align: center;
+    line-height: 40%;
+    text-transform: lowercase;
+    color: black;
+    font-weight: bold;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin-top: 30px;
+    border-radius: 3px;
+       }
